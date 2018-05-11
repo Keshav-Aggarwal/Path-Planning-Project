@@ -14,8 +14,6 @@ I ran the simulator for 15 and 20 miles without incidents:
 ![alt text](Car_2.png "6 Miles")
 
 
-20 miles
-
 #### The car drives according to the speed limit.
 No speed limit red message was seen.
 
